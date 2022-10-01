@@ -1,0 +1,18 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "Apa itu VUE?",
+            "author": "Budi Doremi",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus voluptates illo tempora odio culpa mollitia harum sint animi praesentium. Sunt autem tempora fugiat earum, veniam impedit voluptates ut dolorum dicta.",
+            "tags": ["Code", "Front-End", "Javascript"]
+        },
+        {
+            "id": 2,
+            "title": "Belajar Javascript?",
+            "author": "Doremi Budi",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus voluptates illo tempora odio culpa mollitia harum sint animi praesentium. Sunt autem tempora fugiat earum, veniam impedit voluptates ut dolorum dicta.",
+            "tags": ["Code", "Front-End", "Javascript"]
+        }
+    ]
+}
